@@ -8,20 +8,20 @@ public class Main {
 
         int currentWeek = 1;
 
-        float percentPerTradeFromStartAmount =     2.F;
+        float percentPerTradeFromStartAmount =     1.F;
         float percentAfterReducing =               1.5F;
         int   whenToReduce =                       12000;
 
 
 
         int weeks = 52 ;
-        int tradesPerWeek =  5;
+        int tradesPerWeek =  7;
 
 
 
 
         // ToDo add limit for max bid
-        int PLPercentPerTrade = 5;
+        int PLPercentPerTrade = 2;
 
 
         // ToDo create method to overwrite number of trades
